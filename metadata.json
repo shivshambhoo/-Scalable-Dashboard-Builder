@@ -1,0 +1,6 @@
+{
+  "name": "Scalable Dashboard Builder",
+  "description": "A production-grade, highly scalable dashboard builder separating layout, widgets, data schemas, and transformers using a dynamic widget registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY"]
+}

@@ -1,0 +1,15 @@
+# Ignore node_modules
+node_modules
+npm-debug.log
+
+# Ignore local build artifacts
+dist
+.env
+.env.local
+
+# Ignore version control systems
+.git
+.gitignore
+.dockerignore
+Dockerfile
+Readme.md
